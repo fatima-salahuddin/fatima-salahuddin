@@ -44,7 +44,7 @@ multilingual users.
 RAG course assistant that answers only from a teacher's own lecture material, cites the source and
 declines what it cannot ground. Incremental ingestion of PDF, PPTX and DOCX, role checks before any
 retrieval, self-hosted vector store, and an evaluation harness for accuracy, faithfulness and refusals.
-`Python` `FastAPI` `LlamaIndex` `Qdrant` `React`
+`Python` `FastAPI` `Qdrant` `React`
 
 **[FairGAN-Rec](https://github.com/fatima-salahuddin/Rs_project)**
 Fairness-aware movie recommender using a GAN, evaluated on both accuracy and fairness.
@@ -63,7 +63,7 @@ debugfs interfaces; network load balancer (Round Robin, Least Connections) in C+
 
 - **Languages:** Python, JavaScript, TypeScript, PHP, C/C++, SQL, x86 Assembly, Bash
 - **Frameworks:** React, Node.js, Express, Laravel 12, Flask, Electron, Socket.IO, Tailwind CSS, Vite
-- **Data and AI:** RAG / LLM apps (LlamaIndex, Qdrant), TensorFlow, Keras, Streamlit
+- **Data and AI:** RAG / LLM apps (hybrid retrieval, Qdrant), TensorFlow, Keras, PyTorch, Streamlit
 - **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, SQLite, MongoDB
 - **Tools:** Git, Docker, Linux, Railway, Vercel, REST APIs, payment gateways (Stripe, Authorize.Net, GoCardless)
 
