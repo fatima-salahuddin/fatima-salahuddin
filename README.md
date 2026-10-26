@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eight-silk-85.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://portfolio-fatima-salahuddin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/fatima-salahuddin-/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fatimasalahuddinmirza@gmail.com"><img src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-remote_roles-334155?style=for-the-badge" alt="Open to remote roles">
