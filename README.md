@@ -1,83 +1,110 @@
-## Hi, I'm Fatima
+<h1 align="center">Fatima Salahuddin</h1>
 
-Final-year Computer Science student at FAST-NUCES Karachi (CGPA 3.8, Rector's List, Gold Medalist,
-100% merit scholarship). I design and ship software end to end for real organisations: ERP, HR,
-payroll, billing and point-of-sale systems now in daily use in Kuwait and Iraq. I like turning paper
-and spreadsheet processes into working systems, and building for unreliable connectivity and
-multilingual users.
+<p align="center">
+  Full-stack developer building ERP, HR, payroll and point-of-sale systems that run real businesses.<br>
+  Final-year Computer Science at FAST-NUCES Karachi.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-eight-silk-85.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/fatima-salahuddin-/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fatimasalahuddinmirza@gmail.com"><img src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-remote_roles-334155?style=for-the-badge" alt="Open to remote roles">
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>3</b><br><sub>business systems built solo</sub></td>
+    <td align="center"><b>2</b><br><sub>countries in daily use<br>(Kuwait, Iraq)</sub></td>
+    <td align="center"><b>~480</b><br><sub>API routes in the largest one</sub></td>
+    <td align="center"><b>3.8</b><br><sub>CGPA, Rector's List,<br>Gold Medalist</sub></td>
+  </tr>
+</table>
+
+---
+
+### About me
+
+I like the part of software where it meets a real operation: an accountant's spreadsheet, a
+fingerprint reader on a camp wall, a waiter's tablet on bad Wi-Fi. I take a process that runs on
+paper and Excel, sit with the people who do it, and turn it into a system they trust with their money.
+Most of my work is Laravel and React on the backend and frontend, with Node, Python and Electron
+wherever the problem needs them.
+
+### Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/facility-platform-showcase">Facility Management Platform</a></h4>
+      Operations and finance platform for a camp and catering company in Kuwait. Card-reader attendance,
+      payroll, invoicing, double-entry accounting, kitchen costing, an offline-first POS and a WhatsApp
+      report bot.<br><br>
+      <code>Laravel 12</code> <code>React</code> <code>MySQL</code> <code>Electron</code> <code>Python</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/hr-operations-platform-showcase">HR and Operations Platform</a></h4>
+      HR and payroll for a manpower company serving oilfield clients in Iraq. Three years of Excel history
+      migrated and reconciled, dated rate history, PDF salary slips, full audit log.<br><br>
+      <code>Laravel 11</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code> <code>JWT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/restaurant-pos-showcase">Restaurant POS and Kitchen Display</a></h4>
+      Real-time multi-tablet POS for a hotpot restaurant in Kuwait. Station-routed kitchen screens,
+      split tender, Z-reports, trilingual menu with Arabic RTL, idempotent orders on flaky Wi-Fi.<br><br>
+      <code>Node.js</code> <code>Socket.IO</code> <code>SQLite</code> <code>React</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/pocketprof">PocketProf</a> <sub>final year project</sub></h4>
+      RAG course assistant that answers only from a teacher's own Google Classroom material, cites the
+      slide, and declines what it cannot ground. 97.5% answer-or-decline accuracy, 0% unsupported answers
+      on the baseline set.<br><br>
+      <code>Python</code> <code>FastAPI</code> <code>Qdrant</code> <code>React</code> <code>LLMs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/Rs_project">FairGAN-Rec</a></h4>
+      Movie recommender trained adversarially so its suggestions stay accurate without favouring one user
+      group. Flask app and Streamlit dashboard.<br><br>
+      <code>PyTorch</code> <code>Flask</code> <code>Streamlit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/fatima-salahuddin/SE_project">E-Commerce Marketplace</a></h4>
+      Customer, seller and admin marketplace on Oracle, with row locking at checkout, stock and price
+      triggers, and a full SRS, PRD and design document set.<br><br>
+      <code>Node.js</code> <code>Express</code> <code>Oracle</code> <code>PL/SQL</code>
+    </td>
+  </tr>
+</table>
 
 ### Experience
 
-**Full-Stack Developer (sole developer), Planet Care** · 2026 to present · remote
-- **Facility management ERP and POS** for a camp and catering operation in Kuwait: React web app,
-  Laravel 12 REST API and an offline-first Electron point of sale that syncs sales and stock every
-  5 minutes. Multi-currency invoicing, payables, voucher accounting, P&L reporting, ZKTeco biometric
-  attendance and passport scanning to pre-fill employee records.
-  [Case study](https://github.com/fatima-salahuddin/facility-platform-showcase)
-- **HR and operations platform** for an oilfield-services company in Iraq: employees, payroll with PDF
-  salary slips, attendance, invoicing, expenses, air and service tickets, documents and a full audit
-  log. JWT role-based access, Docker, PostgreSQL on Railway, historical data migrated from Excel.
-  [Case study](https://github.com/fatima-salahuddin/hr-operations-platform-showcase)
+| Role | Where | When |
+|---|---|---|
+| **Full-Stack Developer** (sole developer) | Planet Care: facility ERP in Kuwait, HR platform in Iraq | 2026 to now |
+| **Full-Stack Developer** (sole developer) | Eastern Palace Restaurant, Kuwait | 2026 to now |
+| **Software Developer** (contributor) | SiRiiL SaaS website, Neon telecom billing platform | Apr 2026 to now |
+| **Intern** | ISPR Internship Program | Jul to Sep 2026 |
+| **Digital Literacy Instructor** (remote) | Tabuk, Saudi Arabia | Jan 2024 to Oct 2025 |
 
-**Full-Stack Developer (sole developer), Eastern Palace Restaurant, Kuwait** · 2026 to present
-- Real-time multi-terminal POS: waiters order from any tablet on the LAN, synced live to billing and a
-  station-routed kitchen display (Hotpot, Kitchen, BBQ, Drinks) over Socket.IO. Idempotent order
-  submission that survives bad Wi-Fi.
-- Split tender (Cash, KNET, Card), audited discounts and refunds, shift Z-reports, 6-hourly backups,
-  money stored as integer fils, and a trilingual English / Chinese / Arabic (RTL) menu with a public
-  API for QR ordering.
-  [Case study](https://github.com/fatima-salahuddin/restaurant-pos-showcase)
+### Tech I use
 
-**Contributor, SiRiiL SaaS website and Neon telecom billing platform** · Apr 2026 to present
-- SiRiiL (React, TypeScript, Sanity CMS): redesigned the landing page and hero, merged the Enterprise
-  app into the main codebase, built the Consultancy booking page.
-- Neon (Laravel, SQL Server; Stripe, Authorize.Net, GoCardless, QuickBooks): standardised money
-  formatting across payments, invoices and commissions, added billing filters, fixed payment-filter
-  bugs, maintained English / Hebrew localisation.
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,ts,js,python,fastapi,nextjs,tailwind,electron&perline=11" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,docker,linux,git,pytorch,tensorflow,c,cpp&perline=11" alt="Data, tools and systems">
+</p>
 
-**Intern, ISPR Internship Program** · Jul to Sep 2026
+Also: Socket.IO, TanStack Query, SQL Server, Oracle, Qdrant, Railway, Vercel, payment gateways
+(Stripe, Authorize.Net, GoCardless), ZKTeco biometric devices.
 
-**Digital Literacy Instructor (consultant), Tabuk, Saudi Arabia (remote)** · Jan 2024 to Oct 2025
-- Taught ICT, Python and HTML/CSS to 30+ students aged 8 to 17; wrote a 44-week coding course plan.
-
-### Projects
-
-**[PocketProf](https://github.com/fatima-salahuddin/pocketprof)** · final year project, team of three
-RAG course assistant that answers only from a teacher's own lecture material, cites the source and
-declines what it cannot ground. Incremental ingestion of PDF, PPTX and DOCX, role checks before any
-retrieval, self-hosted vector store, and an evaluation harness for accuracy, faithfulness and refusals.
-`Python` `FastAPI` `Qdrant` `React`
-
-**[FairGAN-Rec](https://github.com/fatima-salahuddin/Rs_project)**
-Fairness-aware movie recommender using a GAN, evaluated on both accuracy and fairness.
-`PyTorch` `Python`
-
-**[Full-Stack E-Commerce Platform](https://github.com/fatima-salahuddin/SE_project)**
-JWT auth with customer, seller and admin roles, 20+ REST endpoints, a normalised 12-table Oracle
-schema with stored procedures, plus a full SRS, UML and API documentation set.
-`React` `Node.js` `Flask` `Oracle`
-
-**Systems work**
-Linux kernel module (1,200+ lines of C) for a priority-based producer-consumer system with sysfs and
-debugfs interfaces; network load balancer (Round Robin, Least Connections) in C++ and Python.
-
-### Skills
-
-- **Languages:** Python, JavaScript, TypeScript, PHP, C/C++, SQL, x86 Assembly, Bash
-- **Frameworks:** React, Node.js, Express, Laravel 12, Flask, Electron, Socket.IO, Tailwind CSS, Vite
-- **Data and AI:** RAG / LLM apps (hybrid retrieval, Qdrant), TensorFlow, Keras, PyTorch, Streamlit
-- **Databases:** MySQL, PostgreSQL, SQL Server, Oracle, SQLite, MongoDB
-- **Tools:** Git, Docker, Linux, Railway, Vercel, REST APIs, payment gateways (Stripe, Authorize.Net, GoCardless)
-
-### Also
+### Outside the code
 
 - Head of Graphic Design, FAST Robotics Society · Head of Design, Developer Student Club ·
   Co-Head of Design, ACM-W · Co-Head of Marketing, Entrepreneurship Society
+- Taught ICT and Python to 30+ students and tutored 50+ more; organised donation drives raising
+  Rs. 67,000+ for free medical care
 - Certifications: Google AI Essentials, AI Seekho (Google Cloud), AWS Solutions Architecture Job
   Simulation, C Programming (UC Santa Cruz)
-
-### Contact
-
-[Portfolio](https://portfolio-eight-silk-85.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/fatima-salahuddin-/) ·
-fatimasalahuddinmirza@gmail.com
