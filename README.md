@@ -17,6 +17,7 @@ multilingual users.
 - **HR and operations platform** for an oilfield-services company in Iraq: employees, payroll with PDF
   salary slips, attendance, invoicing, expenses, air and service tickets, documents and a full audit
   log. JWT role-based access, Docker, PostgreSQL on Railway, historical data migrated from Excel.
+  [Case study](https://github.com/fatima-salahuddin/hr-operations-platform-showcase)
 
 **Full-Stack Developer (sole developer), Eastern Palace Restaurant, Kuwait** · 2026 to present
 - Real-time multi-terminal POS: waiters order from any tablet on the LAN, synced live to billing and a
@@ -25,6 +26,7 @@ multilingual users.
 - Split tender (Cash, KNET, Card), audited discounts and refunds, shift Z-reports, 6-hourly backups,
   money stored as integer fils, and a trilingual English / Chinese / Arabic (RTL) menu with a public
   API for QR ordering.
+  [Case study](https://github.com/fatima-salahuddin/restaurant-pos-showcase)
 
 **Contributor, SiRiiL SaaS website and Neon telecom billing platform** · Apr 2026 to present
 - SiRiiL (React, TypeScript, Sanity CMS): redesigned the landing page and hero, merged the Enterprise
